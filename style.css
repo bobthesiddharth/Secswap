@@ -1,0 +1,37 @@
+body {
+  align-items: center;
+  background-color: #FAF3F0;
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 70px;
+  padding-top: 50px;
+}
+h4{
+    font-family:cursive;
+}
+
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+} 
+
+.navbar {
+  padding-left: 15px 10px;
+  padding: 15px;
+}
+.navbarand {
+  padding-right: 700px;
+}
+.nav-item {
+  color: aliceblue;
+}
+.nav-item a:hover {
+  color: aqua;
+}
+
+.foot {
+    padding-bottom: 1px;
+    background-color: #262626;
+}
